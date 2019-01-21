@@ -50,7 +50,7 @@ These arguments can then be seen in posts from the [SendGrid Event Webhook]({{ro
 
 <call-out type="warning">
 
-Bounces returned with the Return-Path cause `unique_rgs not to be attached to an event. This can cause issues when developing unique_args POST handling.
+Bounces returned with the Return-Path cause `unique_args` not to be attached to an event. This can cause issues when developing unique_args POST handling.
 
 </call-out>
 
